@@ -1,5 +1,9 @@
 # DevSecOps FastAPI Demo
 
+![CI](https://github.com/KIRANS420/devsec-fastapi-demo/actions/workflows/ci.yml/badge.svg)
+![CodeQL](https://github.com/KIRANS420/devsec-fastapi-demo/actions/workflows/codeql-analysis.yml/badge.svg)
+<img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue">
+
 A demonstration project showcasing DevSecOps practices with FastAPI.
 
 ## Features
@@ -9,10 +13,8 @@ A demonstration project showcasing DevSecOps practices with FastAPI.
 - Code quality checks with Ruff
 - Pre-commit hooks for automated checks
 - Dependency vulnerability scanning
-
-## CI/CD Badges
-
-<!-- Badge placeholders will be added here -->
+- GitHub CodeQL analysis
+- Secret scanning with gitleaks
 
 ## Getting Started
 
