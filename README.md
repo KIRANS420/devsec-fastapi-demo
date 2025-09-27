@@ -6,6 +6,9 @@
 
 A demonstration project showcasing DevSecOps practices with FastAPI.
 
+## Status
+✅ All workflows are now configured and ready to run!
+
 ## Features
 
 - FastAPI web application
