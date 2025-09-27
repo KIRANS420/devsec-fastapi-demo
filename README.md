@@ -334,16 +334,10 @@ This project was developed using **GitHub Student Developer Pack** resources and
 - **Debugging**: Utilized Copilot's code analysis capabilities to identify and fix workflow configuration issues
 - **Best Practices**: Applied Copilot's suggestions for following Python and FastAPI best practices
 
-### Development Workflow with AI
-1. **Initial Setup**: Copilot helped generate the basic FastAPI application structure and test framework
-2. **Security Configuration**: AI assistance in setting up pre-commit hooks, GitHub Actions workflows, and security scanning tools
-3. **Documentation**: Copilot provided templates and suggestions for comprehensive documentation
-4. **Troubleshooting**: Used AI to debug workflow failures and configuration issues
-
 ### Tools and Resources Used
 - **GitHub Student Developer Pack**: Access to premium GitHub features and tools
 - **GitHub Copilot**: AI pair programming assistant for code generation and suggestions
-- **Cursor AI**: AI-powered code editor for enhanced development experience
+- **VS Code**: A code editor
 - **GitHub Actions**: Free CI/CD with student pack benefits
 - **Render**: Free hosting for the live demo application
 
@@ -351,4 +345,4 @@ The combination of AI tools and the GitHub Student Developer Pack made it possib
 
 ---
 
-**Built with ❤️ using AI-assisted development and GitHub Student Developer Pack**
+**Built with ❤️ -- Kiran S**
