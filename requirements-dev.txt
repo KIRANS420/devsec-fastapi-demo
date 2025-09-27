@@ -4,3 +4,4 @@ pre-commit
 bandit
 pip-audit
 httpx
+detect-secrets
