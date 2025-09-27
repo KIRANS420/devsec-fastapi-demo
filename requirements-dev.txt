@@ -1,0 +1,6 @@
+pytest
+ruff
+pre-commit
+bandit
+pip-audit
+httpx
