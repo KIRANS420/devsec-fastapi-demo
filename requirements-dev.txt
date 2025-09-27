@@ -5,3 +5,4 @@ bandit
 pip-audit
 httpx
 detect-secrets
+pbr
